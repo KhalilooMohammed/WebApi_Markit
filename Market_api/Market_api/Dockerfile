@@ -14,4 +14,4 @@ COPY --from=build /out .
 
 EXPOSE 5000
 
-CMD ["dotnet", "WebApi_Markit.dll"]
+CMD ["dotnet", "obj\Debug\net6.0\Market_api.dll"]

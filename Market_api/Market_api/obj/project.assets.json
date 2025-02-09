@@ -371,11 +371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Market_api\\Market_api\\Market_api.csproj",
+      "projectUniqueName": "D:\\level 4\\term2\\APIs\\WebApi_Markit\\Market_api\\Market_api\\Market_api.csproj",
       "projectName": "Market_api",
-      "projectPath": "D:\\Market_api\\Market_api\\Market_api.csproj",
+      "projectPath": "D:\\level 4\\term2\\APIs\\WebApi_Markit\\Market_api\\Market_api\\Market_api.csproj",
       "packagesPath": "C:\\Users\\X-LinkY\\.nuget\\packages\\",
-      "outputPath": "D:\\Market_api\\Market_api\\obj\\",
+      "outputPath": "D:\\level 4\\term2\\APIs\\WebApi_Markit\\Market_api\\Market_api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
