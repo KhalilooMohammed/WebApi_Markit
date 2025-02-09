@@ -1,0 +1,108 @@
+D:\API\Market_api\Market_api\bin\Debug\net6.0\appsettings.Development.json
+D:\API\Market_api\Market_api\bin\Debug\net6.0\appsettings.json
+D:\API\Market_api\Market_api\bin\Debug\net6.0\Market_api.exe
+D:\API\Market_api\Market_api\bin\Debug\net6.0\Market_api.deps.json
+D:\API\Market_api\Market_api\bin\Debug\net6.0\Market_api.runtimeconfig.json
+D:\API\Market_api\Market_api\bin\Debug\net6.0\Market_api.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\Market_api.pdb
+D:\API\Market_api\Market_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.AssemblyReference.cache
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.AssemblyInfoInputs.cache
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.AssemblyInfo.cs
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.CoreCompileInputs.cache
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.MvcApplicationPartsAssemblyInfo.cs
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.MvcApplicationPartsAssemblyInfo.cache
+D:\API\Market_api\Market_api\obj\Debug\net6.0\staticwebassets.build.json
+D:\API\Market_api\Market_api\obj\Debug\net6.0\staticwebassets.development.json
+D:\API\Market_api\Market_api\obj\Debug\net6.0\scopedcss\bundle\Market_api.styles.css
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.CopyComplete
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.dll
+D:\API\Market_api\Market_api\obj\Debug\net6.0\refint\Market_api.dll
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.pdb
+D:\API\Market_api\Market_api\obj\Debug\net6.0\Market_api.genruntimeconfig.cache
+D:\API\Market_api\Market_api\obj\Debug\net6.0\ref\Market_api.dll
+D:\API\Market_api\Market_api\bin\Debug\net6.0\web.config
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\web.config
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\appsettings.Development.json
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\appsettings.json
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\Market_api.exe
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\Market_api.deps.json
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\Market_api.runtimeconfig.json
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\Market_api.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\Market_api.pdb
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.AssemblyReference.cache
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.AssemblyInfoInputs.cache
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.AssemblyInfo.cs
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.CoreCompileInputs.cache
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.MvcApplicationPartsAssemblyInfo.cs
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.MvcApplicationPartsAssemblyInfo.cache
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\staticwebassets.build.json
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\staticwebassets.development.json
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\scopedcss\bundle\Market_api.styles.css
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\refint\Market_api.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.pdb
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.genruntimeconfig.cache
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\ref\Market_api.dll
+D:\level 4\term2\APIs\last\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.CopyComplete
+D:\Market_api\Market_api\bin\Debug\net6.0\web.config
+D:\Market_api\Market_api\bin\Debug\net6.0\appsettings.Development.json
+D:\Market_api\Market_api\bin\Debug\net6.0\appsettings.json
+D:\Market_api\Market_api\bin\Debug\net6.0\Market_api.exe
+D:\Market_api\Market_api\bin\Debug\net6.0\Market_api.deps.json
+D:\Market_api\Market_api\bin\Debug\net6.0\Market_api.runtimeconfig.json
+D:\Market_api\Market_api\bin\Debug\net6.0\Market_api.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\Market_api.pdb
+D:\Market_api\Market_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\Market_api\Market_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.AssemblyReference.cache
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.AssemblyInfoInputs.cache
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.AssemblyInfo.cs
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.CoreCompileInputs.cache
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.MvcApplicationPartsAssemblyInfo.cs
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.MvcApplicationPartsAssemblyInfo.cache
+D:\Market_api\Market_api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Market_api\Market_api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Market_api\Market_api\obj\Debug\net6.0\scopedcss\bundle\Market_api.styles.css
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.dll
+D:\Market_api\Market_api\obj\Debug\net6.0\refint\Market_api.dll
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.pdb
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.genruntimeconfig.cache
+D:\Market_api\Market_api\obj\Debug\net6.0\ref\Market_api.dll
+D:\Market_api\Market_api\obj\Debug\net6.0\staticwebassets\msbuild.Market_api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Market_api\Market_api\obj\Debug\net6.0\staticwebassets\msbuild.build.Market_api.props
+D:\Market_api\Market_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Market_api.props
+D:\Market_api\Market_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Market_api.props
+D:\Market_api\Market_api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.Up2Date
+D:\Market_api\Market_api\obj\Debug\net6.0\Market_api.csproj.CopyComplete
